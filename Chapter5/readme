@@ -1,0 +1,1 @@
+Counts down 99 bottles of beer on the wall. This works except that in a regular MS-DOS command window it cannot display all 99 bottles list - it just shows 59 and down.
