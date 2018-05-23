@@ -1,0 +1,1 @@
+Exercise: Implement a simple "password" system that takes a password in the form of a number. Make it so that either of two numbers is valid, but use only one if statement to do the check.
