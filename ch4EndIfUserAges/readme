@@ -1,0 +1,1 @@
+Exercise: Ask the user for two users' ages, and indicate who is older; behave differently if both are over 100. I enhanced it with three different age conditions. Both older than 100, both younger than 100, and one younger than 100. 
